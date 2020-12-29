@@ -9,3 +9,5 @@ Hello I'm Dirk
 Hello I'm team member 2
 
 Hurray I'm in branch feature_1
+
+This is my first text from visual studio code
