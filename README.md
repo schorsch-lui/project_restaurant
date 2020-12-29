@@ -15,3 +15,5 @@ This is my first text from visual studio code
 Another test after reboot 29.12. 13:40
 
 And now a test with VSC
+
+Next test from VSC 16:53
