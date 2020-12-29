@@ -13,3 +13,5 @@ Hurray I'm in branch feature_1
 This is my first text from visual studio code
 
 Another test after reboot 29.12. 13:40
+
+And now a test with VSC
